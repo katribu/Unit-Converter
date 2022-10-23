@@ -26,8 +26,8 @@ function render(){
             </p>
             
         <h3>Mass (Kilograms/Pounds)</h3>
-            <p> ${inputNumber} kgs = ${newArray[4]} lbs 
-            |   ${inputNumber} lbs = ${newArray[5]} kgs
+            <p> ${inputNumber} lbs = ${newArray[4]} kgs 
+            |   ${inputNumber} kgs = ${newArray[5]} lbs
             </p>
         </div>`
 
