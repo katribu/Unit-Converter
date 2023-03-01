@@ -10,7 +10,7 @@ h2 {
 
 main {
     width: 620px;
-    margin: 0 auto;
+    margin: 20px auto;
     text-align: center;
 }
 
@@ -18,11 +18,13 @@ main {
     background: rgb(17, 16, 16);
     color: rgb(167, 158, 225);
     padding: 45px 0;
+    border-radius: 10px 10px 0 0;
 }
 
 #bottomSection {
     padding: 20px 0;
     background-color: rgb(117, 117, 203);
+    border-radius: 0 0 10px 10px;
 }
 
 #myNumber {
